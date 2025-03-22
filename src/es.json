@@ -1,0 +1,13 @@
+{
+  "homepage": {
+    "form_title": "Formulario de prueba",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "direction": {
+      "right": "derecha"
+    },
+    "correct": {
+      "right": "correcto"
+    }
+  }
+}
