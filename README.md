@@ -1,4 +1,4 @@
-# React I18Next Language Translater text
+# React I18Next Language Translater Demo
 
 This is a tech demo for the use of I18Next-React
 
