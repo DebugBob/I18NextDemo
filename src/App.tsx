@@ -12,8 +12,7 @@ function App() {
   }, []);
 
   return (
-    <>
-      <body>
+      <div className="wrapper">
         <p>
           {t("homepage.lorem")}
         </p>
@@ -39,8 +38,7 @@ function App() {
             <label>Correct: {t("homepage.correct.right")}</label>
           </div>
         </form>
-      </body>
-    </>
+      </div>
   );
 }
 
